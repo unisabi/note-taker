@@ -15,3 +15,4 @@ See `MIT LICENSE` for more information.
 ## Deployment
 https://github.com/unisabi/note-taker
 
+https://unisabi.github.io/note-taker/
